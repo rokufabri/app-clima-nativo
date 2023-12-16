@@ -51,11 +51,6 @@ function showWeather(data){
     `
 
     result.appendChild(content)
-    console.log(name)
-    console.log(temp)
-    console.log(temp_min)
-    console.log(temp_max)
-    console.log(arr)
 }
 
 //Manejo de errors
